@@ -1,0 +1,2 @@
+# senha-segura
+gerar senhas
